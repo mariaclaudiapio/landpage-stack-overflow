@@ -1,8 +1,8 @@
-<h1 align="center"> Site AdoPet </h1>
+<h1 align="center"> Landpage Stack Overflow </h1>
 
 
 
-Site de adoção de animais desenvolvido, no decorrer do **Challenge Front-End** da Alura. Será utilizada a metodologia **Mobile-First**, ou seja, o projeto será iniciado de forma a se adequar à tela de celulares.
+Código da reprodução do layout do site Stack Overflow, desenvolvido durante o *bootcamp* **Desenvolvedora Front End** da XPE. Será utilizado o Flex Box para estilização da página.
 
 
 
@@ -10,14 +10,13 @@ Site de adoção de animais desenvolvido, no decorrer do **Challenge Front-End**
 
 * HTML;
 
-* CSS.
+* CSS-Flexbox.
 
   
 
 <p align="center">
  <img width="60%" src="em_construcao.png">
 </p>
-
 
 
 
